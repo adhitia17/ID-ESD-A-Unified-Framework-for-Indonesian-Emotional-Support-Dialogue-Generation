@@ -1,0 +1,2 @@
+﻿model,samples,avg_emotion_adherence,avg_strategy_accuracy,avg_bleu,avg_rouge1,avg_rougeL,avg_empathy,avg_helpfulness,avg_relevance,avg_fluency,avg_strategy_adherence
+fine_tuned_llama,150,0.8733333333333333,0.9466666666666667,0.6175343279934827,0.7447630710115848,0.7318407792062213,4.38,4.22,4.826666666666667,4.953333333333333,4.513333333333334

@@ -1,0 +1,666 @@
+[
+  {
+    "experience_type": "Pengalaman Sebelumnya",
+    "emotion_type": "kecemasan",
+    "problem_type": "krisis pekerjaan",
+    "situation": "Aku benci pekerjaanku tapi aku takut berhenti dan mencari karir baru.",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Halo ?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Halo, apa yang ingin kau bicarakan?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku sangat khawatir tentang berhenti dari pekerjaanku saat ini."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apa yang membuat pekerjaanmu stres?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Aku harus berurusan dengan banyak orang dalam situasi keuangan yang sulit dan itu menyedihkan."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apakah Anda membantu klien Anda untuk mendapatkan lebih baik dari situasi keuangan?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Saya lakukan, tetapi seringkali mereka tidak akan mendapatkan kembali apa yang mereka inginkan."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Tapi Anda menawarkan masa depan yang lebih baik daripada yang mereka miliki saat ini. Mungkin bukan apa yang mereka inginkan, tapi itu membantu mereka dalam jangka panjang."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Itu benar tapi kadang-kadang aku merasa seperti aku harus menempatkan perasaan dan kesehatanku di atas semua."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Aku bisa mengerti itu."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apakah ada pekerjaan lain yang akan membayar Anda hampir seperti yang Anda dapatkan saat ini?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Mungkin tidak. aku bekerja di perusahaan yang sama untuk waktu yang lama dan aku mendapatkan bonus setiap tahun."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Apakah mungkin untuk mengubah cara Anda melihat situasi keuangan buruk klien Anda?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku bisa mencoba. itu biasanya membuatku di akhir hari."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Informasi"
+        },
+        "content": "Beberapa orang tidak bisa melakukan apa yang Anda lakukan karena mereka tidak memiliki hati untuk memberikan berita buruk kepada orang lain. Namun kenyataannya, seseorang perlu mengisi peran itu dan Anda membantu orang"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "Kadang-kadang aku bertanya-tanya apakah itu benar-benar untuk saya meskipun."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengungkapan diri"
+        },
+        "content": "Aku pernah berurusan dengan pengumpulan uang ketika aku dalam kondisi keuangan yang buruk orang di telepon lain sangat membantu meskipun dia mengerti,"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Mungkin bukan untukmu. aku pikir kau harus memikirkan pro dan kontra dari mempertahankan posisimu. mungkin itu akan membuat segalanya lebih jelas bagimu."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Mungkin aku hanya perlu duduk dan benar-benar memikirkannya."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengucapan atau Paraprasing"
+        },
+        "content": "Aku tidak akan tinggal jika itu benar-benar berdampak pada kesehatan mental Anda dengan cara yang negatif. Namun, Anda mungkin perlu memperbesar dan melihat gambaran yang lebih besar: bahwa Anda memberikan layanan yang dibutuhkan dan Anda melakukannya dengan penuh kasih sayang"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ini benar-benar keputusan besar."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Terima kasih untuk perspektif yang berbeda."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Tidak diragukan lagi, tapi kau tahu di dalam hatimu apa yang tepat untukmu."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "Terima kasih sekali lagi."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Sampai jumpa."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Aku harap kau bisa membuat keputusan tentang situasi ini dan kemudian damai dengannya"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Baiklah, hati-hatilah."
+      }
+    ],
+    "seeker_question1": "Partner was very supportive",
+    "seeker_question2": "More guidance in conversation or examples",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "Pengalaman Saat Ini",
+    "emotion_type": "kemarahan",
+    "problem_type": "masalah dengan teman",
+    "situation": "Aku punya teman yang tidak mendukung ... sampai-sampai aku merasa tak punya teman lagi .",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Halo, apa kabar?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Halo aku mencari seseorang untuk berbicara dengan"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku baik-baik saja bagaimana kabarmu?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Aku senang kau baik-baik saja."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Selamat Natal!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "Itu bagus dan tidak salju itu sangat dingin thow"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Selamat Natal untukmu juga."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Bagaimana aku bisa membantumu hari ini?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku punya beberapa masalah dengan teman-teman yang sebenarnya bukan teman."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengucapan atau Paraprasing"
+        },
+        "content": "Aku dengar kau kesulitan mencari tahu siapa teman yang benar-benar temanmu dan yang lain bukan."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Ya."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Aku mengerti bahwa... apakah ada sesuatu yang terjadi yang membuatmu merasa seperti itu?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya mereka tidak ada komunikasi atau interaksi antara saya dan mereka tidak ada yang menjawab panggilan telepon sms dll"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apa ini orang lain yang penting?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "Tidak ada teman."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apa mereka mengabaikanmu?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Saat kita masih muda kita selalu bergaul sekarang kita sudah tua seperti mereka berbicara satu sama lain. Aku tidak yakin apakah aku melakukan sesuatu atau tidak."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Kau yakin mereka baik-baik saja atau tidak pergi bersama keluarga untuk liburan?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "itu tidak masalah mereka masih menjaga komunikasi terbuka dengan satu sama lain"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Itu tidak bagus apa yang Anda pikir masalah?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku percaya itu karena aku adalah teman yang memiliki masalah keuangan dan biasanya perlu meminjam uang"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Apa kau sudah berutang pada seseorang?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Tidak ada apa-apa yang saya berutang saya selalu membayar kembali"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Mungkin mereka lelah ditanya"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Itu bisa menghalangi persahabatan kadang-kadang, tapi aku mencoba untuk tidak terburu-buru dan melompat pistol mereka mungkin kehilangan telepon atau sesuatu mungkin muncul ..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Refleksi perasaan"
+        },
+        "content": "Itu bisa jadi... kau bekerja?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Tidak sekarang."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku juga berpikir kadang-kadang untuk diri sendiri bahwa mereka tidak menjawab karena mereka berpikir aku meminta uang"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Aku mengerti, kau sudah mengajukan pengangguran?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya aku tidak memenuhi syarat"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Saya mengerti, tapi bagaimana jika itu masalahnya?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Sudah berapa lama ini terjadi?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "Aku gugup untuk bertanya mengapa."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Dan itu terjadi di dan off seperti ketika mereka merasa berbohong itu saya kira saya akan mengatakan mungkin 4 bulan"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Aku mengerti, tapi jika kau ingin sampai pada titik yang membuatmu merasa lebih baik, maka kau harus bicara dengan mereka."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya aku tahu aku berharap semuanya segera diselesaikan dan tidak mengarah ke masalah lain dan akhir dari persahabatan"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Apa kau melihat mereka setiap hari?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengucapan atau Paraprasing"
+        },
+        "content": "Aku mengerti, kau bisa pergi ke sana."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Tidak, aku tidak tinggal di kota yang sama lagi."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ketika aku pergi ke luar kota aku bisa mengunjungi tapi dengan aturan covid19"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Penegasan dan Jaminan"
+        },
+        "content": "Aku bisa melihat bahwa kau telah berusaha untuk mencoba dan menjaga hubungan jadi kedengarannya seperti bola ada di lapangan mereka jika mereka ingin melakukan hal yang sama."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Nah itu semua yang bisa dilakukan dan menunggu mereka datang sekitar ... Apakah Anda memiliki hobi?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Ya aku suka membaca dan memainkan musik"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Saya suka berlari setiap pagi, membantu saya membersihkan pikiran dan membuat saya lebih mudah melupakan hal-hal yang mengganggu saya."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "Kau memainkan instrumen apa?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Adikku berjalan di pagi hari dan mengatakan itu mengendurkannya untuk hari ini."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Aku bermain piano ketika aku di sekolah menengah"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengucapan atau Paraprasing"
+        },
+        "content": "Ini benar-benar membantu menghilangkan stres. aku bermain ketika aku masih muda, tapi aku tidak pernah menjadi sangat baik."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Tidak aku tidak Aku harus berhenti karena aku memiliki apa yang disebut dokter jari pemicu itu menyebabkan rasa sakit yang besar ketika aku akan berlatih"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Refleksi perasaan"
+        },
+        "content": "Hmm, mungkin ambil beberapa pelajaran lagi, kita selalu bisa berusaha menjadi lebih baik dalam segala hal yang kita lakukan."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Ya itu benar"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Mungkin berlari untuk membersihkan pikiranmu."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Aku yakin mereka akan berubah."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Aku pikir aku akan mulai berjalan Aku tidak dalam kondisi untuk berlari"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya aku akan memberi mereka waktu mungkin berhenti menjangkau begitu banyak"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Itu mungkin ide yang bagus."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Ya terima kasih sudah berbicara denganku dan memberikan saran yang bagus"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pertanyaan"
+        },
+        "content": "kepada mereka dan mungkin menemukan bahwa itu tidak pernah ada apa-apa terhadap Anda"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Ya mungkin semua orang stres pada beberapa tingkat berkat covid19"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Pengungkapan diri"
+        },
+        "content": "Saya kadang-kadang mendahului diri saya dan mencoba mencari tahu apa yang terjadi dan berpikir bahwa itu adalah sesuatu yang saya lakukan. Anda juga benar. COVID telah membuat semua orang stres maksimal."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Ini telah menjadi tahun gila Aku senang itu hampir berakhir."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Ya aku berharap tahun depan membawa berkat bagi semua orang."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Memberikan Saran"
+        },
+        "content": "Apa ada yang bisa kubantu hari ini?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Tidak, itu semua. Terima kasih sudah bicara denganku."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Tidak masalah, semoga semuanya berjalan baik untukmu dan teman-temanmu."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Anda dan terima kasih"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Lain-lain"
+        },
+        "content": "Selamat siang!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Selamat tinggal."
+      }
+    ],
+    "seeker_question1": "",
+    "seeker_question2": "",
+    "supporter_question1": "It was simple",
+    "supporter_question2": "The middle screen hover function gets in the way"
+  }
+]

@@ -1,0 +1,664 @@
+{
+    "experience_type": "Previous Experience",
+    "emotion_type": "anxiety",
+    "problem_type": "job crisis",
+    "situation": "I hate my job but I am scared to quit and seek a new career.",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Hello\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Hello, what would you like to talk about?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "I am having a lot of anxiety about quitting my current job. It is too stressful but pays well\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "What makes your job stressful for you?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "I have to deal with many people in hard financial situations and it is upsetting \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Do you help your clients to make it to a better financial situation?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "I do, but often they are not going to get back to what they want. Many people are going to lose their home when safeguards are lifted \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "But you offer them a better future than what they have currently. It may not be what they wanted, but it helps them in the long run."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "That is true but sometimes I feel like I should put my feelings and health first \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "I can understand that. "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Is there another job that would pay you close to what you currently make?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "Probably not. I was with the same company for a long time and I consistently get a bonus every year "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "Is it possible to reframe how you look at your clients' dire financial situations?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "I could try. It mostly gets to me at the end of the day \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "Some people can't do what you do because they don't have the heart to give someone else bad news. The reality is though, someone needs to fill that role and you do help people"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "That is also true. Sometimes I wonder if it really is for me though  \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "I've had to deal with collections before when I was in  bad financial condition. The person on the other line was really helpful though. She was understanding,"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "It may not be for you. I think you should think about the pros and cons of keeping your position. It might make things clearer for you. "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "That is true. Maybe I just need to sit down and really think about it \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "I wouldn't stay if it really impacts your mental health in a negative way. Still, you may need to zoom out and see the bigger picture: that you provide a needed service and you do it compassionately"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "It really is a big decision \n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Thank you for the different perspective \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "No doubt, but you know in your heart what is right for you. "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "That is true. Thanks again \n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "Bye\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "It's no problem. I hope you can make a decision about this situation and then be at peace with it"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "Ok, take care"
+      }
+    ],
+    "seeker_question1": "Partner was very supportive",
+    "seeker_question2": "More guidance in conversation or examples",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "Current Experience",
+    "emotion_type": "anger",
+    "problem_type": "problems with friends",
+    "situation": "I have complete unsupportive friends its to the point where i dont even feel like i have friends any more .",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Hello how are you?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "hello im looking for someone to talk to "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "im fine how are you\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "I'm doing ok I'm glad you are good. Is it snowing by you?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "Merry Christmas!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "thats great and no its not snowing its very cold thow\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "merry christmas to you also \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "How can I help you today?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "im having some issues with friends not actually being friends\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "I hear you are having trouble figuring out which friends are really your friends and which ones aren't. Is that about right?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "yes\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "I understand that... Did something happen that makes you feel like that?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes their is no communication or interaction between me and them nobody answers phone calls txt messages etc\n "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Is this a significant other?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "no friends\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Are they ignoring you?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "when we where younger we all hung out all the time now that we are older its like they talk with each other im not sure if i did anything or not "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Are you sure they are okay? Or not away with family for the holidays?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "it doesnt matter they still keep open communication with each other  "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "That's no good what do you think the problem is?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "I believe its because I am the friend that has financial trouble and normally needs to borrow money "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "Do you owe someone already?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "no anything i owe i always pay back "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "perhaps they are tired of being asked "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "That can get in the way of a friendship sometimes, but I try not to get ahead of myself and  jump the gun. They may have lost a phone or something may have come up..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "That very well could be... Are you working?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "no im not currently "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "I also think sometimes to myself that they don't answer because they think I'm asking for money"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "I see, Have you tried for unemployment?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes i dont qualify"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "I understand that. What if that is the case? You may need to talk to them and let them know how you feel about that."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "How long has this been going on?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "I'm nervous about asking them why "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "and it happens on and off like when they feel lie it i guess i will say maybe 4 months"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "I understand that, but if you want to get to a point that you feel better about it then you will have to speak to them."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes i know i hope everything be immediately resolved and not lead into other problems and end of friendshps"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "Do you see them everyday?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "I understand that, are you able to go over there."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "no i dont live in the same city anymore"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "when i go out of town i can visit but with covid19  rules"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "Well I can see that you have put the effort in to try and keep the relationship so it sounds like the ball is in their court if they want to do the same."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "Well that is about all that can be done and wait for them to come around...Do you have  any hobbies?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "yes i like to read and play music "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "I like to go on runs every morning. It helps to clear my mind and makes it easier to brush things off when they bother me."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "What instrument do you play?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "my sister goes on runs in the morning time and says it relax her for the day i think i migh"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "i played the piano when i was in highschool"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "It is a really good stress reliever. I played when I  was younger, didn't ever get very good. Did you?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "no i didn't i had to stop because i have what the doctors call a trigger finger it caused great pain when i would practice "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "Hmm, well maybe take some more lessons, We can always strive to be better at everything we do."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "yes that is true"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "Maybe take a run in order to clear your mind."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "I'm sure they will come around."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "i think i would start off walking i am not in shape to run"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes i will give them time maybe stop reaching out so much"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "That may be a good idea. Good talk"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "yes thank you for talking with me and giving great advice"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "to them and may find out that it was never anything against you"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "yes maybe everyone is stressed at some level thanks to covid19"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "I sometimes get ahead of myself and try to figure out what is going on and thinking that it was something I did. You are right too. COVID has stressed everyone out to the max."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "It has been a crazy year I am glad that it is almost over."
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "yes i hope next year bring blessings for everyone "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "I'm sure it will. Is there anything else I can help you with today?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "no that was all thanks for speaking with me"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "No problem, I hope everything works out for you and your friends. Have a great New Year!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "you to and thanks"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "Good day!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "good bye "
+      }
+    ],
+    "seeker_question1": "",
+    "seeker_question2": "",
+    "supporter_question1": "It was simple",
+    "supporter_question2": "The middle screen hover function gets in the way"
+  }

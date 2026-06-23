@@ -1,0 +1,58 @@
+{
+  "num_dialogues": 1300,
+  "total_turns": 38365,
+  "num_utterances": 38365,
+  "averages": {
+    "avg_turn_per_dialogue": 29.51153846153846,
+    "avg_length_per_dialogue": 395.2146153846154,
+    "avg_length_per_utterance": 13.391867587644988,
+    "avg_length_per_dialogue_seeker": 189.42846153846153,
+    "avg_length_per_utterance_seeker": 12.319625794186802,
+    "avg_length_per_dialogue_supporter": 205.78615384615384,
+    "avg_length_per_utterance_supporter": 14.55822812363953
+  },
+  "composition": {
+    "experience_type": {
+      "Pengalaman Sebelumnya": 309,
+      "Pengalaman Saat Ini": 991
+    },
+    "emotion_type": {
+      "kecemasan": 354,
+      "kemarahan": 111,
+      "takut": 95,
+      "depresi": 334,
+      "kesedihan": 308,
+      "kejengkelan": 40,
+      "malu": 42,
+      "kegelisahan": 13,
+      "nyeri": 1,
+      "cemburu": 1,
+      "rasa bersalah": 1
+    },
+    "problem_type": {
+      "krisis pekerjaan": 280,
+      "masalah dengan teman": 179,
+      "depresi yang sedang berlangsung": 351,
+      "putus dengan pasangan": 239,
+      "tekanan akademik": 156,
+      "konflik dengan orang tua": 10,
+      "Menunda-nunda": 13,
+      "Penyalahgunaan Alkohol": 12,
+      "Masalah dengan Orang Tua": 8,
+      "Masalah Tidur": 28,
+      "Kecemasan Tentang Penampilan": 12,
+      "Pelecehan di Sekolah": 2,
+      "Masalah dengan Anak-Anak": 10
+    },
+    "strategy": {
+      "Pertanyaan": 3801,
+      "Penegasan dan Jaminan": 2827,
+      "Lain-lain": 3341,
+      "Informasi": 1215,
+      "Pengungkapan diri": 1713,
+      "Memberikan Saran": 2954,
+      "Pengucapan atau Paraprasing": 1089,
+      "Refleksi perasaan": 1436
+    }
+  }
+}

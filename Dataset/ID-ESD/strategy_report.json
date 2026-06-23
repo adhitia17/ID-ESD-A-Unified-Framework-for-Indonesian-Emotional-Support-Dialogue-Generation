@@ -1,0 +1,14 @@
+{
+    "strategy_counts": {
+        "bertanya": 5121,
+        "merefleksikan perasaan": 2097,
+        "memberikan penegasan dan penyemangat": 22663,
+        "memberikan saran": 8185,
+        "mengulang atau memparafrasekan": 740,
+        "memberikan informasi": 499,
+        "berbagi pengalaman pribadi": 72,
+        "null": 9
+    },
+    "total_strategies": 39386,
+    "unique_strategies": 8
+}

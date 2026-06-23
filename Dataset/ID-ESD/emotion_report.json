@@ -1,0 +1,26 @@
+{
+    "emotion_counts": {
+        "malu": 774,
+        "takut": 2450,
+        "rindu": 1441,
+        "ragu": 857,
+        "lega": 6576,
+        "bahagia": 5377,
+        "optimis": 1056,
+        "sedih": 7808,
+        "marah": 1277,
+        "jijik": 18,
+        "bosan": 129,
+        "bangga": 179,
+        "bingung": 3038,
+        "cemas": 3992,
+        "depresi": 1849,
+        "terharu": 48,
+        "penasaran": 210,
+        "harapan": 119,
+        "kesepian": 576,
+        "netral": 1692
+    },
+    "total_emotions": 39466,
+    "unique_emotions": 20
+}

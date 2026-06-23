@@ -1,0 +1,26 @@
+{
+  "num_dialogues": 4000,
+  "total_turns": 78852,
+  "num_utterances": 78852,
+  "averages": {
+    "avg_turn_per_dialogue": 19.713,
+    "avg_length_per_dialogue": 292.56275,
+    "avg_length_per_utterance": 14.841107391061735,
+    "avg_length_per_dialogue_seeker": 100.602,
+    "avg_length_per_utterance_seeker": 10.196320883798712,
+    "avg_length_per_dialogue_supporter": 191.96075,
+    "avg_length_per_utterance_supporter": 19.495328289239833
+  },
+  "composition": {
+    "experience_type": {
+      "": 4000
+    },
+    "emotion_type": {
+      "": 4000
+    },
+    "problem_type": {
+      "": 4000
+    },
+    "strategy": {}
+  }
+}

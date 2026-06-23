@@ -1,0 +1,28 @@
+# ========================================
+# Requirements
+# ========================================
+
+# --- UI ---
+gradio>=4.0.0
+
+# --- Deep Learning ---
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+trl>=0.7.0
+unsloth>=2024.0.0
+
+# --- Data Processing ---
+pandas>=1.5.0
+numpy>=1.24.0
+
+# --- Progress Bar ---
+tqdm>=4.60.0
+
+# --- Evaluasi ---
+scikit-learn>=1.0.0
+nltk>=3.7.0
+rouge-score>=0.1.0
+
+# --- API Client ---
+requests>=2.28.0
